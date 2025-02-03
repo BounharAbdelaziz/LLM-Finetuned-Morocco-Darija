@@ -1,8 +1,10 @@
 transformers==4.40.2
-dataset==2.19.1
+dataset==1.6.2
 tokenizers==0.19.1
-torch==2.2.1+cu121
+torch==2.2.1
 huggingface_hub
 peft
 trl
 bitsandbytes
+ipykernel
+datasketch==1.6.5
